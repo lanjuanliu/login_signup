@@ -1,0 +1,24 @@
+{
+    "user": [
+        {
+            "name": "manpreet",
+            "password": "man@K12",
+            "profile": {
+                "dsptn": "234567",
+                "hobbies": "asdfgh",
+                "dob": "12345",
+                "gender": "f"
+            }
+        },
+        {
+            "name": "preeti",
+            "password": "man@K12",
+            "profile": {
+                "dsptn": "2345",
+                "hobbies": "werty",
+                "dob": "23456",
+                "gender": "f"
+            }
+        }
+    ]
+}
